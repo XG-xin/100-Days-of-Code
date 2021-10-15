@@ -13,3 +13,4 @@ My 100 Dasy of Code challenge with learning Python
  - quiz-game
  - snake_game
  - turtle-crossing
+ - birthday-wisher
