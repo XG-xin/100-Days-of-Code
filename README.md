@@ -14,3 +14,8 @@ My 100 Dasy of Code challenge with learning Python
  - snake_game
  - turtle-crossing
  - birthday-wisher
+ - quizzer-app
+ - rain-alert
+ - stock-news
+ - us-state-game
+ - workout-tracker
