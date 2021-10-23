@@ -1,5 +1,5 @@
 # 100-Days-of-Code
-My 100 Dasy of Code challenge with learning Python
+My 100 Days of Code challenge with learning Python
 
 
  - Mail_Merge_Project
