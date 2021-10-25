@@ -19,3 +19,4 @@ My 100 Days of Code challenge with learning Python
  - stock-news
  - us-state-game
  - workout-tracker
+ - flight-deals
