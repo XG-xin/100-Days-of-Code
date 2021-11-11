@@ -21,3 +21,4 @@ My 100 Days of Code challenge with learning Python
  - workout-tracker
  - flight-deals
  - spotify-playlist-time-machine
+ - higher-lower
