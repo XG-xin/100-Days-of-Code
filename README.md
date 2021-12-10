@@ -22,3 +22,7 @@ My 100 Days of Code challenge with learning Python
  - flight-deals
  - spotify-playlist-time-machine
  - higher-lower
+ - personal-site
+ - name-card
+ - blog-site
+ - coffee-and-wifi
