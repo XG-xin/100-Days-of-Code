@@ -30,3 +30,4 @@ My 100 Days of Code challenge on learning Python
  - movie-ranking
  - cafe-api
  - REST-full-blog
+ - flask-authentication
