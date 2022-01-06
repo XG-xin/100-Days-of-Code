@@ -31,3 +31,4 @@ My 100 Days of Code challenge on learning Python
  - cafe-api
  - REST-full-blog
  - flask-authentication
+ - blog-with-users
